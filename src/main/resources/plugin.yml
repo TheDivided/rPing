@@ -1,0 +1,4 @@
+name: Ping
+version: '${project.version}'
+main: ru.divided.mc.ping.Ping
+api-version: 1.16.5
